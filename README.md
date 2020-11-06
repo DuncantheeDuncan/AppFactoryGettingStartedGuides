@@ -1,2 +1,2 @@
-# git-research-project
-Research project
+# AppFactory GettingStarted Guides
+`Research projects`
